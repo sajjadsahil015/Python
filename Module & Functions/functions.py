@@ -37,3 +37,12 @@ def even(*,x):
     else:
         print("Odd")
 even(x = 4)
+
+def sum(a,b):
+    return a+b
+print(sum(1,2))
+
+def sum(a,b,c):
+    return a+b+c
+print(sum(1,2,3))
+
