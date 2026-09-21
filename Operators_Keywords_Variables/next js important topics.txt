@@ -1,0 +1,41 @@
+Project setup & folder layout (app vs pages)
+
+React Server Components (RSC) vs Client Components
+
+Layouts & nested layouts (root layout, route groups)
+
+Routing: static, dynamic, catch-all, optional catch-all
+
+Parallel & intercepted routes, slots & modal patterns
+
+Data fetching in App Router: fetch, cache, revalidate, streaming
+
+Server Actions (mutations on server)
+
+API routes & edge functions & middleware
+
+Rendering modes: SSG / SSR / ISR / streaming
+
+Error handling & not-found pages (error.js, not-found.js)
+
+Metadata API (head, dynamic metadata)
+
+next/image, next/font, and other built-in optimizations
+
+Authentication patterns (NextAuth, JWT, server-side checks)
+
+State management & client cache strategies (React Query, SWR)
+
+TypeScript with Next.js — types for layouts, params, props
+
+Styling: Tailwind + CSS modules + global styles
+
+Performance & analytics (Lighthouse, web vitals)
+
+Deployment (Vercel) & environment variables / secrets
+
+Database integration patterns (Prisma, server actions, edge DB)
+
+Testing: unit, integration, E2E (Vitest / Playwright)
+
+Common migration pitfalls (pages → app) & debugging tips

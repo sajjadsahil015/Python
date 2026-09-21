@@ -1,0 +1,13 @@
+| Method Name            | Use Case Example                          |
+| ---------------------- | ----------------------------------------- |
+| `assertEqual(a, b)`    | `self.assertEqual(2 + 2, 4)`              |
+| `assertNotEqual(a, b)` | `self.assertNotEqual(3 * 2, 5)`           |
+| `assertTrue(x)`        | `self.assertTrue(5 > 3)`                  |
+| `assertFalse(x)`       | `self.assertFalse(10 < 2)`                |
+| `assertIs(a, b)`       | `self.assertIs(obj1, obj2)` (same object) |
+| `assertIsNot(a, b)`    | `self.assertIsNot(obj1, obj2)`            |
+| `assertIsNone(x)`      | `self.assertIsNone(result)`               |
+| `assertIsNotNone(x)`   | `self.assertIsNotNone(data)`              |
+| `assertIn(a, b)`       | `self.assertIn('a', 'apple')`             |
+| `assertNotIn(a, b)`    | `self.assertNotIn('x', [1, 2, 3])`        |
+| `assertRaises(Error)`  | Check exception                           |
